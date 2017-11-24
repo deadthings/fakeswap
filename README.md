@@ -1,5 +1,7 @@
 # fakeswap
 
+Forked from: AnthonyDS/fakeswap.sh https://gist.github.com/AnthonyDS/30501b3f8a725a3ef9084e9af08c20e4
+
 Instructions:
 
 Do chmod a+x fakeswap.sh
