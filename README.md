@@ -2,8 +2,6 @@
 
 Instructions:
 
-Do nano fakeswap.sh and paste script, save and close
-
 Do chmod a+x fakeswap.sh
 
 Execute as follows for your preferred swap size:
